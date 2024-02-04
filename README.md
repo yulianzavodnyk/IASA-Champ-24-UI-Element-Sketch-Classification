@@ -18,6 +18,6 @@ Building [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Conv
 
 | ***Dataset***  | ***Accuracy*** |
 |:---------------|---------------:|
-| Train set      |        `0.958` |
-| Validation set |        `0.784` |
-| Test set       |        `0.774` |
+| Train set      |        `0.848` |
+| Validation set |        `0.766` |
+| Test set       |        `0.761` |
