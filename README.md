@@ -1,7 +1,7 @@
 ﻿# IASA Champ '24: UI Element Sketch Classification
 
 ### [Link to kaggle competition](https://www.kaggle.com/competitions/iasa-champ-24-ui-element-sketch-classification)
-* My first hackathon team work experience
+* My first data science project and hackathon experience
 * Timeline `27.01.2024`-`02.02.2024`
 
 ## Overview
@@ -14,7 +14,7 @@ The task is to train a classification model capable of accurately identifying th
 * Test folder: Includes images from all categories, without class indication.
 
 ## Result
-Building [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model
+Building Sketch Classificator, based on [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model
 
 | ***Dataset***  | ***Accuracy*** |
 |:---------------|---------------:|
